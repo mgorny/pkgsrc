@@ -2,7 +2,7 @@
 
 PKGNAME=	suse_webkitgtk-${SUSE_VERSION}
 CATEGORIES=	emulators
-RPMPKGS+=	libwebkitgtk-1_0-0-2.2.1-1.1.${SUSE_ARCH}.rpm
+RPMPKGS+=	libwebkitgtk-1_0-0-2.2.1-1.1.${SUSE_ARCH}
 
 MAINTAINER=	pkgsrc-users@NetBSD.org
 COMMENT=	Linux compatibility package for expat
